@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game Package", "Lvl 2 Math Project\Game Package.csproj", "{65064CB7-2BA8-4860-B138-19E4D32FB9C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65064CB7-2BA8-4860-B138-19E4D32FB9C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65064CB7-2BA8-4860-B138-19E4D32FB9C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65064CB7-2BA8-4860-B138-19E4D32FB9C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65064CB7-2BA8-4860-B138-19E4D32FB9C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F149992-2907-4A17-B6E6-2D82FC272003}
+	EndGlobalSection
+EndGlobal

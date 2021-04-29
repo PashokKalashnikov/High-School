@@ -1,0 +1,24 @@
+D:\Visual Studio\Parasha\Lvl 2 Math Project\Lvl 2 Math Project\bin\Debug\Lvl 2 Math Project.exe.config
+D:\Visual Studio\Parasha\Lvl 2 Math Project\Lvl 2 Math Project\bin\Debug\Lvl 2 Math Project.exe
+D:\Visual Studio\Parasha\Lvl 2 Math Project\Lvl 2 Math Project\bin\Debug\Lvl 2 Math Project.pdb
+D:\Visual Studio\Parasha\Lvl 2 Math Project\Lvl 2 Math Project\obj\Debug\Lvl 2 Math Project.csprojAssemblyReference.cache
+D:\Visual Studio\Parasha\Lvl 2 Math Project\Lvl 2 Math Project\obj\Debug\Lvl_2_Math_Project.Form1.resources
+D:\Visual Studio\Parasha\Lvl 2 Math Project\Lvl 2 Math Project\obj\Debug\Lvl_2_Math_Project.Properties.Resources.resources
+D:\Visual Studio\Parasha\Lvl 2 Math Project\Lvl 2 Math Project\obj\Debug\Lvl 2 Math Project.csproj.GenerateResource.cache
+D:\Visual Studio\Parasha\Lvl 2 Math Project\Lvl 2 Math Project\obj\Debug\Lvl 2 Math Project.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Parasha\Lvl 2 Math Project\Lvl 2 Math Project\obj\Debug\Lvl 2 Math Project.exe
+D:\Visual Studio\Parasha\Lvl 2 Math Project\Lvl 2 Math Project\obj\Debug\Lvl 2 Math Project.pdb
+D:\Visual Studio\Parasha\Lvl 2 Math Project\Lvl 2 Math Project\obj\Debug\Lvl_2_Math_Project.ShootingGallery.resources
+D:\Visual Studio\Parasha\Lvl 2 Math Project\Lvl 2 Math Project\obj\Debug\Lvl_2_Math_Project.SecondControl.resources
+F:\Computer Technology Skills\Programmer Level 2\Draft\Lvl 2 Math Project\bin\Debug\Lvl 2 Math Project.exe.config
+F:\Computer Technology Skills\Programmer Level 2\Draft\Lvl 2 Math Project\bin\Debug\Lvl 2 Math Project.exe
+F:\Computer Technology Skills\Programmer Level 2\Draft\Lvl 2 Math Project\bin\Debug\Lvl 2 Math Project.pdb
+F:\Computer Technology Skills\Programmer Level 2\Draft\Lvl 2 Math Project\obj\Debug\Lvl 2 Math Project.csprojAssemblyReference.cache
+F:\Computer Technology Skills\Programmer Level 2\Draft\Lvl 2 Math Project\obj\Debug\Lvl_2_Math_Project.Form1.resources
+F:\Computer Technology Skills\Programmer Level 2\Draft\Lvl 2 Math Project\obj\Debug\Lvl_2_Math_Project.Properties.Resources.resources
+F:\Computer Technology Skills\Programmer Level 2\Draft\Lvl 2 Math Project\obj\Debug\Lvl_2_Math_Project.SecondControl.resources
+F:\Computer Technology Skills\Programmer Level 2\Draft\Lvl 2 Math Project\obj\Debug\Lvl_2_Math_Project.ShootingGallery.resources
+F:\Computer Technology Skills\Programmer Level 2\Draft\Lvl 2 Math Project\obj\Debug\Lvl 2 Math Project.csproj.GenerateResource.cache
+F:\Computer Technology Skills\Programmer Level 2\Draft\Lvl 2 Math Project\obj\Debug\Lvl 2 Math Project.csproj.CoreCompileInputs.cache
+F:\Computer Technology Skills\Programmer Level 2\Draft\Lvl 2 Math Project\obj\Debug\Lvl 2 Math Project.exe
+F:\Computer Technology Skills\Programmer Level 2\Draft\Lvl 2 Math Project\obj\Debug\Lvl 2 Math Project.pdb
